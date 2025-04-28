@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+    font-size: 24px;
+    border-bottom: 1px solid green;
+
+}
+
+.gatoimg {
+width: 150px;
+height: 150px;
+border-radius: 30%;
+box-shadow: 10px 10px 10px 0px black;
+   transition: all 1s;
+}
+
+.gatoimg:hover {
+    box-shadow: 20px 10px 10px 0px black;
+  }
+  
+  #java {
+    font-size: 32px;
+    transition: all 0.3s;
+  }
+  
+  #java:hover {
+    font-size: 30px;
+    color: blue;
+  }
